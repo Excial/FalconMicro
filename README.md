@@ -5,7 +5,8 @@ A robot design to navigate and inspect false ceilings
 Security key: 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
 
 ===================================================================================
-*Completed: Falcon Lab V1
+
+Completed: Falcon Lab V1
 
 Issues: 
 
@@ -17,5 +18,6 @@ Issues:
 6. 8 more ADC channels required to communicate with Encoders 
 
 ===================================================================================
-*In progress: Falcon Lab V2 , Falcon Micro Remote
+
+In progress: Falcon Lab V2 , Falcon Micro Remote
 
