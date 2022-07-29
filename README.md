@@ -16,6 +16,7 @@ Issues:
 4. Motor encoders needed to adjust speed PWM, balance both motors
 5. Rotational Motors need more torque, and encoders for balance
 6. 8 more ADC channels required to communicate with Encoders 
+7. Right Leg gets caught under track
 
 ==============================================================================
 
@@ -24,8 +25,6 @@ Completed: Falcon Micro Remote V1
 1. Updates to arrive soon after assembly
 
 ==============================================================================
-
-In Progress: Falcon Lab V2
 
 
 
