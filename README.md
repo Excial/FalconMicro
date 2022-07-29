@@ -19,5 +19,14 @@ Issues:
 
 ==============================================================================
 
-In progress: Falcon Lab V2 , Falcon Micro Remote
+Completed: Falcon Micro Remote V1
+
+1. Updates to arrive soon after assembly
+
+==============================================================================
+
+In Progress: Falcon Lab V2
+
+
+
 
