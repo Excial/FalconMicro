@@ -629,7 +629,6 @@
     )
   )
 
-
   (junction (at 191.135 97.79) (diameter 0) (color 0 0 0 0)
     (uuid 0f335c30-bcf1-454c-9bb8-9d26ad030997)
   )
@@ -2170,7 +2169,7 @@
     (property "Value" "0.1uF" (id 1) (at 100.965 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 98.1202 88.9 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 98.1202 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 97.155 85.09 0)
@@ -2204,7 +2203,7 @@
     (uuid 15a2b364-ca9c-4160-8997-0fd81c16f0f3)
     (property "Reference" "C51" (id 0) (at 92.71 183.515 90))
     (property "Value" "1uF" (id 1) (at 92.71 186.055 90))
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 96.52 188.8998 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 96.52 188.8998 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 92.71 189.865 0)
@@ -2340,7 +2339,7 @@
     (uuid 4e4c102e-27f0-4b53-8fd4-bfba6e43ed80)
     (property "Reference" "C31" (id 0) (at 37.465 183.515 90))
     (property "Value" "1uF" (id 1) (at 37.465 186.055 90))
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 41.275 188.8998 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 41.275 188.8998 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 37.465 189.865 0)
@@ -2389,7 +2388,7 @@
     (property "Value" "10uF" (id 1) (at 88.265 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 85.4202 88.9 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 85.4202 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 84.455 85.09 0)
@@ -2741,7 +2740,7 @@
     (property "Value" "10uF" (id 1) (at 55.245 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 52.4002 45.72 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 52.4002 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 51.435 41.91 0)
@@ -2847,7 +2846,7 @@
     (property "Value" "10uF" (id 1) (at 21.59 42.545 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0201_0603Metric" (id 2) (at 30.1752 45.72 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 30.1752 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 29.21 41.91 0)
@@ -2912,22 +2911,22 @@
 
   (symbol_instances
     (path "/ecdc66b9-63fa-4592-a848-cf2a8650161c"
-      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C11") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/d7283c91-7bb2-432f-8745-cfa50fa7b1e1"
-      (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C12") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/4e4c102e-27f0-4b53-8fd4-bfba6e43ed80"
-      (reference "C31") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C31") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/58d3dc2f-83c3-40bd-8149-a9ae527ba7f7"
-      (reference "C41") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C41") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0b6934fa-e0da-47d3-b234-fe32ab606f89"
-      (reference "C42") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C42") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/15a2b364-ca9c-4160-8997-0fd81c16f0f3"
-      (reference "C51") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
+      (reference "C51") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/5251da4a-69d3-4bed-9f5a-6273a802e449"
       (reference "D81") (unit 1) (value "LED") (footprint "LED_SMD:LED_0201_0603Metric")
